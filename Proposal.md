@@ -10,7 +10,7 @@
 
 #### A visual
 
-<img height="10%" width="80%" alt="hdma" src="./pox app.jpg?raw=true"> 
+<img height="10%" width="80%" alt="hdma" src="./mockup.png?raw=true"> 
 
 #### Presentation: https://docs.google.com/presentation/d/1GgQzTjjbZGNRMAILKG724KDfeTgjGAAFI07prLo9Weo/edit?usp=sharing
 
