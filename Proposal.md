@@ -5,7 +5,7 @@
 #### Team Name: Funky Pox    
   
 #### Your team’s hackathon idea in One sentence:
-##### `MonkeyPox detection via image`
+##### `A mobile app for detecting MonkeyPox in user via image classification`
 
 
 #### A visual
@@ -21,9 +21,9 @@
 > Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
 - [] Patient experience
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
-- [x] Health Disparities
+- [] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
-- [X] Privacy and Security
+- [] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
