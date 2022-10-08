@@ -29,8 +29,9 @@
 
 #### Team Coordinator GitHub Username: `prannulu`
 
-#### Team Members `Samantha Suess: slsuess
-Rodrigo Valdez: rodrivaldez5 
-Remington Steele: remsteele
-Pavi Rannulu: prannulu
-Julia Depillo: juliardepillo`
+#### Team Members
+- Samantha Suess: slsuess
+- Rodrigo Valdez: rodrivaldez5 
+- Remington Steele: remsteele
+- Pavi Rannulu: prannulu
+- Julia Depillo: juliardepillo`
