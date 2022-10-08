@@ -13,6 +13,7 @@
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
+#### Presentation: https://docs.google.com/presentation/d/1GgQzTjjbZGNRMAILKG724KDfeTgjGAAFI07prLo9Weo/edit?usp=sharing
 
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning 
