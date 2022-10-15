@@ -1,6 +1,6 @@
 # Team 413 
 
-TODO: pick a team nickname
+Presentation Link: https://docs.google.com/presentation/d/1UINlcP0dv8ZLZHreGBlU2hj1gj4tGgYB/edit?usp=sharing&ouid=115584382879908847515&rtpof=true&sd=true
 
 [Hackathon program](https://bigdataforsandiego.github.io/)
 
